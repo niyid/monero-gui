@@ -26,8 +26,8 @@
 | <img src="https://avatars.githubusercontent.com/u/36108685?v=4" width="32"/> | [Malinero](https://github.com/Malinero) |
 | <img src="https://avatars.githubusercontent.com/u/10460270?v=4" width="32"/> | [Lafudoci](https://github.com/Lafudoci) |
 | <img src="https://avatars.githubusercontent.com/u/18739807?v=4" width="32"/> | [dEBRUYNE-1](https://github.com/dEBRUYNE-1) |
-| <img src="https://avatars.githubusercontent.com/u/7271470?v=4" width="32"/> | [MaxXor](https://github.com/MaxXor) |
 | <img src="https://avatars.githubusercontent.com/u/20237127?v=4" width="32"/> | [niyid](https://github.com/niyid) |
+| <img src="https://avatars.githubusercontent.com/u/7271470?v=4" width="32"/> | [MaxXor](https://github.com/MaxXor) |
 | <img src="https://avatars.githubusercontent.com/u/1052761?v=4" width="32"/> | [ph4r05](https://github.com/ph4r05) |
 | <img src="https://avatars.githubusercontent.com/u/13033037?v=4" width="32"/> | [reemuru](https://github.com/reemuru) |
 | <img src="https://avatars.githubusercontent.com/u/77655812?v=4" width="32"/> | [plowsof](https://github.com/plowsof) |
@@ -98,8 +98,8 @@
 | <img src="https://avatars.githubusercontent.com/u/716689?v=4" width="32"/> | [githubrsys](https://github.com/githubrsys) |
 | <img src="https://avatars.githubusercontent.com/u/1390820?v=4" width="32"/> | [hqwrong](https://github.com/hqwrong) |
 | <img src="https://avatars.githubusercontent.com/u/25672277?v=4" width="32"/> | [hundehausen](https://github.com/hundehausen) |
-| <img src="https://avatars.githubusercontent.com/u/8018610?v=4" width="32"/> | [i3visio](https://github.com/i3visio) |
 | <img src="https://avatars.githubusercontent.com/u/75314629?v=4" width="32"/> | [inson1](https://github.com/inson1) |
+| <img src="https://avatars.githubusercontent.com/u/20890209?v=4" width="32"/> | [xmrdc](https://github.com/xmrdc) |
 | <img src="https://avatars.githubusercontent.com/u/34245203?v=4" width="32"/> | [bitlamas](https://github.com/bitlamas) |
 | <img src="https://avatars.githubusercontent.com/u/23522425?v=4" width="32"/> | [buricl](https://github.com/buricl) |
 | <img src="https://avatars.githubusercontent.com/u/12422133?v=4" width="32"/> | [ufUNnxagpM](https://github.com/ufUNnxagpM) |
@@ -110,8 +110,7 @@
 | <img src="https://avatars.githubusercontent.com/u/27734319?v=4" width="32"/> | [serhack](https://github.com/serhack) |
 | <img src="https://avatars.githubusercontent.com/u/40885610?v=4" width="32"/> | [etkaar](https://github.com/etkaar) |
 | <img src="https://avatars.githubusercontent.com/u/126120328?v=4" width="32"/> | [schnoffel](https://github.com/schnoffel) |
-| <img src="https://avatars.githubusercontent.com/u/25270775?v=4" width="32"/> | [gorazdko](https://github.com/gorazdko) |
-| <img src="https://avatars.githubusercontent.com/u/20890209?v=4" width="32"/> | [xmrdc](https://github.com/xmrdc) |
+| <img src="https://avatars.githubusercontent.com/u/470577?v=4" width="32"/> | [samuelgozi](https://github.com/samuelgozi) |
 | <img src="https://avatars.githubusercontent.com/u/1439752?v=4" width="32"/> | [widdy](https://github.com/widdy) |
 | <img src="https://avatars.githubusercontent.com/u/97997689?v=4" width="32"/> | [web3d3v](https://github.com/web3d3v) |
 | <img src="https://avatars.githubusercontent.com/u/170204?v=4" width="32"/> | [vdo](https://github.com/vdo) |
@@ -136,6 +135,7 @@
 | <img src="https://avatars.githubusercontent.com/u/16073360?v=4" width="32"/> | [kinghat](https://github.com/kinghat) |
 | <img src="https://avatars.githubusercontent.com/u/23572628?v=4" width="32"/> | [kerastinell](https://github.com/kerastinell) |
 | <img src="https://avatars.githubusercontent.com/u/38654035?v=4" width="32"/> | [jarole](https://github.com/jarole) |
+| <img src="https://avatars.githubusercontent.com/u/8180660?v=4" width="32"/> | [fridzema](https://github.com/fridzema) |
 | <img src="https://avatars.githubusercontent.com/u/10169740?v=4" width="32"/> | [Gingeropolous](https://github.com/Gingeropolous) |
 | <img src="https://avatars.githubusercontent.com/u/11700535?v=4" width="32"/> | [gene-telligent](https://github.com/gene-telligent) |
 | <img src="https://avatars.githubusercontent.com/u/6517264?v=4" width="32"/> | [fabionitto](https://github.com/fabionitto) |
@@ -160,8 +160,6 @@
 | <img src="https://avatars.githubusercontent.com/u/97087?v=4" width="32"/> | [ascandella](https://github.com/ascandella) |
 | <img src="https://avatars.githubusercontent.com/u/16595267?v=4" width="32"/> | [AJIekceu4](https://github.com/AJIekceu4) |
 | <img src="https://avatars.githubusercontent.com/u/80786286?v=4" width="32"/> | [2l47](https://github.com/2l47) |
-| <img src="https://avatars.githubusercontent.com/u/470577?v=4" width="32"/> | [samuelgozi](https://github.com/samuelgozi) |
-| <img src="https://avatars.githubusercontent.com/u/8180660?v=4" width="32"/> | [fridzema](https://github.com/fridzema) |
 | <img src="https://avatars.githubusercontent.com/u/19860056?v=4" width="32"/> | [PidgeyBE](https://github.com/PidgeyBE) |
 | <img src="https://avatars.githubusercontent.com/u/42201?v=4" width="32"/> | [prusnak](https://github.com/prusnak) |
 | <img src="https://avatars.githubusercontent.com/u/12949894?v=4" width="32"/> | [janowitz](https://github.com/janowitz) |
@@ -185,7 +183,9 @@
 | <img src="https://avatars.githubusercontent.com/u/47697526?v=4" width="32"/> | [selamba](https://github.com/selamba) |
 | <img src="https://avatars.githubusercontent.com/u/13802545?v=4" width="32"/> | [Hoshpak](https://github.com/Hoshpak) |
 | <img src="https://avatars.githubusercontent.com/u/966816?v=4" width="32"/> | [ha-yi](https://github.com/ha-yi) |
+| <img src="https://avatars.githubusercontent.com/u/25270775?v=4" width="32"/> | [gorazdko](https://github.com/gorazdko) |
 <!-- CONTRIBUTORS END -->
+
 
 
 
