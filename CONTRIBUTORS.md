@@ -21,8 +21,8 @@
 | <img src="https://avatars.githubusercontent.com/u/1145786?v=4" width="32"/> | [rpcjacobs](https://github.com/rpcjacobs) |
 | <img src="https://avatars.githubusercontent.com/u/6896930?v=4" width="32"/> | [glv2](https://github.com/glv2) |
 | <img src="https://avatars.githubusercontent.com/u/22608168?v=4" width="32"/> | [MoroccanMalinois](https://github.com/MoroccanMalinois) |
-| <img src="https://avatars.githubusercontent.com/u/5115470?v=4" width="32"/> | [jonathancross](https://github.com/jonathancross) |
 | <img src="https://avatars.githubusercontent.com/u/20237127?v=4" width="32"/> | [niyid](https://github.com/niyid) |
+| <img src="https://avatars.githubusercontent.com/u/5115470?v=4" width="32"/> | [jonathancross](https://github.com/jonathancross) |
 | <img src="https://avatars.githubusercontent.com/u/15806605?v=4" width="32"/> | [SChernykh](https://github.com/SChernykh) |
 | <img src="https://avatars.githubusercontent.com/u/36108685?v=4" width="32"/> | [Malinero](https://github.com/Malinero) |
 | <img src="https://avatars.githubusercontent.com/u/10460270?v=4" width="32"/> | [Lafudoci](https://github.com/Lafudoci) |
@@ -185,6 +185,7 @@
 | <img src="https://avatars.githubusercontent.com/u/966816?v=4" width="32"/> | [ha-yi](https://github.com/ha-yi) |
 | <img src="https://avatars.githubusercontent.com/u/25270775?v=4" width="32"/> | [gorazdko](https://github.com/gorazdko) |
 <!-- CONTRIBUTORS END -->
+
 
 
 
