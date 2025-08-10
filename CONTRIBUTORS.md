@@ -17,8 +17,8 @@
 | <img src="https://avatars.githubusercontent.com/u/26077532?v=4" width="32"/> | [stoffu](https://github.com/stoffu) |
 | <img src="https://avatars.githubusercontent.com/u/975883?v=4" width="32"/> | [pazos](https://github.com/pazos) |
 | <img src="https://avatars.githubusercontent.com/u/10373537?v=4" width="32"/> | [rbrunner7](https://github.com/rbrunner7) |
-| <img src="https://avatars.githubusercontent.com/u/29288694?v=4" width="32"/> | [cryptochangements34](https://github.com/cryptochangements34) |
 | <img src="https://avatars.githubusercontent.com/u/20237127?v=4" width="32"/> | [niyid](https://github.com/niyid) |
+| <img src="https://avatars.githubusercontent.com/u/29288694?v=4" width="32"/> | [cryptochangements34](https://github.com/cryptochangements34) |
 | <img src="https://avatars.githubusercontent.com/u/1145786?v=4" width="32"/> | [rpcjacobs](https://github.com/rpcjacobs) |
 | <img src="https://avatars.githubusercontent.com/u/6896930?v=4" width="32"/> | [glv2](https://github.com/glv2) |
 | <img src="https://avatars.githubusercontent.com/u/22608168?v=4" width="32"/> | [MoroccanMalinois](https://github.com/MoroccanMalinois) |
@@ -185,6 +185,7 @@
 | <img src="https://avatars.githubusercontent.com/u/966816?v=4" width="32"/> | [ha-yi](https://github.com/ha-yi) |
 | <img src="https://avatars.githubusercontent.com/u/25270775?v=4" width="32"/> | [gorazdko](https://github.com/gorazdko) |
 <!-- CONTRIBUTORS END -->
+
 
 
 
